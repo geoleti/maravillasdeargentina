@@ -1,39 +1,17 @@
 # Maravillas de Argentina
+Página estática con panorámicas de Google Maps integradas en un iframe. Un botón Random cambia de destino sin salir del sitio. Sin filtros, buscador ni enlaces externos propios a Maps. Los controles, atribuciones y enlaces que Google incluye en su visor permanecen visibles.
 
-Sitio estático en castellano, pensado para GitHub Pages. Inspirado en la navegación aleatoria de Wonders of Street View, con identidad propia.
+## Selección inicial
+14 panorámicas seleccionadas por Leti, con los identificadores y orientación extraídos de sus enlaces completos. Se reemplazó el catálogo de destinos candidatos.
+Brazo Tristeza queda pendiente porque solo se recibió un enlace abreviado sin identificador resuelto. Los dos enlaces abreviados anteriores no se agregan como duplicados; se incorporaron los completos enviados posteriormente.
 
-## Publicar
-En **Settings → Pages**, seleccionar **Deploy from a branch**, rama **main**, carpeta **/(root)** y guardar.
-La dirección prevista es https://geoleti.github.io/maravillasdeargentina/ . No está activa hasta habilitar Pages.
+## Funcionamiento
+Se usa el formato de inserción de Google Maps con pb e identificador de panorámica, sin clave API. Este formato depende de Google y puede cambiar. Si una imagen es retirada o no admite inserción, se debe obtener su enlace de Compartir / Insertar imagen.
+places.json conserva el identificador, coordenadas y orientación original. Pitch se calcula como 90 menos el valor t del enlace.
+Random recorre una bolsa mezclada antes de volver a sortear destinos; evita repetir inmediatamente el actual.
+Se puede compartir la dirección ?lugar=id.
 
-## Estado del catálogo
-Los 16 lugares iniciales son **candidatos**, con coordenadas aproximadas y enlaces oficiales de Maps URLs. No se ha verificado la existencia ni el encuadre de una foto 360 en cada coordenada. Google puede mostrar una panorámica próxima o indicar que no hay cobertura. El fondo inicial es una ilustración, no una fotografía del destino.
-
-Para una experiencia como Neal.fun, hay que seleccionar panorámicas concretas. El sitio ya admite sus enlaces de inserción; no inventa identificadores de fotos.
-
-## Agregar una panorámica sin API
-1. Abrir el lugar en Google Maps y seleccionar la foto 360 deseada.
-2. Usar **Compartir o insertar imagen → Insertar imagen**, si Google ofrece esa opción.
-3. Copiar solamente la URL del atributo src del iframe.
-4. En places.json, ponerla en embedUrl y, tras comprobarla, cambiar verified360 a true.
-Si Google no ofrece inserción para esa imagen, mantener el enlace externo o usar Maps Embed con una clave.
-
-## Alternativa: Maps Embed
-Completar googleMapsEmbedKey en config.js con una clave pública de Maps Embed API.
-Restringir la clave al dominio https://geoleti.github.io/* y a Maps Embed API.
-La API usa location o panoId; una coordenada no garantiza un encuadre exacto.
-Documentación: https://developers.google.com/maps/documentation/embed/embedding-map
-URLs: https://developers.google.com/maps/documentation/urls/get-started
-
-## Editar destinos
-Cada entrada de places.json incluye id único, name, province, region, lat, lng, description, embedUrl, panoId y verified360.
-No modificar id una vez compartido. Los enlaces del sitio usan ?lugar=id.
-Se pueden sumar lugares simplemente agregando entradas.
-El sitio no guarda favoritos ni incluye filtros o buscadores.
-Google recibe conexiones al abrir sus enlaces o cargar un visor integrado.
-
-## Desarrollo
-Sin dependencias, claves obligatorias ni proceso de compilación.
-Servir por HTTP, por ejemplo con python -m http.server 8000.
-Funciones: botón Random, destino inicial aleatorio, azar sin repetición inmediata, enlaces directos por lugar, pantalla completa y diseño móvil.
-
+## Publicación
+Settings → Pages → Deploy from a branch → main → /(root).
+Sitio: https://geoleti.github.io/maravillasdeargentina/
+Sin compilación ni dependencias.
