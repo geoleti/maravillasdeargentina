@@ -34,7 +34,7 @@
   },
   {
     "id": "bariloche-1",
-    "name": "Bariloche · Vista 1",
+    "name": "Bariloche",
     "province": "Río Negro",
     "lat": -41.1443416,
     "lng": -71.3760495,
@@ -45,7 +45,7 @@
   },
   {
     "id": "bariloche-2",
-    "name": "Bariloche · Vista 2",
+    "name": "Bariloche",
     "province": "Río Negro",
     "lat": -41.1851352,
     "lng": -71.5742594,
@@ -78,7 +78,7 @@
   },
   {
     "id": "arrayanes-1",
-    "name": "Parque Nacional Los Arrayanes · Vista 1",
+    "name": "Parque Nacional Los Arrayanes",
     "province": "Neuquén",
     "lat": -40.78392,
     "lng": -71.660469,
@@ -89,7 +89,7 @@
   },
   {
     "id": "arrayanes-2",
-    "name": "Parque Nacional Los Arrayanes · Vista 2",
+    "name": "Parque Nacional Los Arrayanes",
     "province": "Neuquén",
     "lat": -40.8569276,
     "lng": -71.6144838,
