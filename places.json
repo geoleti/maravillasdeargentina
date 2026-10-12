@@ -152,5 +152,16 @@
     "heading": 289.34,
     "pitch": 9.03,
     "embedUrl": "https://www.google.com/maps/embed?pb=!4v1791830000000!6m8!1m7!1ssPSrsUUBLL4GYDjqIjZ-ow!2m2!1d-40.6654324!2d-71.3452235!3f289.34!4f-9.03!5f0.7820865974627469"
+  },
+  {
+    "id": "batea-mahuida",
+    "name": "Volcán Batea Mahuida",
+    "province": "Neuquén",
+    "lat": -38.8203103,
+    "lng": -71.1938541,
+    "panoId": "CIABIhAAdNv1Itep2GrvoBNYkAyE",
+    "heading": 92.99,
+    "pitch": 6.15,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!4v1791830000000!6m8!1m7!1sCIABIhAAdNv1Itep2GrvoBNYkAyE!2m2!1d-38.8203103!2d-71.1938541!3f92.99!4f-6.15!5f0.7820865974627469"
   }
 ]
