@@ -29,10 +29,11 @@ URLs: https://developers.google.com/maps/documentation/urls/get-started
 Cada entrada de places.json incluye id único, name, province, region, lat, lng, description, embedUrl, panoId y verified360.
 No modificar id una vez compartido. Los enlaces del sitio usan ?lugar=id.
 Se pueden sumar lugares simplemente agregando entradas.
-Los guardados son locales al navegador; no se envían datos personales a un servidor.
+El sitio no guarda favoritos ni incluye filtros o buscadores.
 Google recibe conexiones al abrir sus enlaces o cargar un visor integrado.
 
 ## Desarrollo
 Sin dependencias, claves obligatorias ni proceso de compilación.
 Servir por HTTP, por ejemplo con python -m http.server 8000.
-Funciones: filtros regionales, buscador, favoritos, historial anterior/siguiente, azar sin repetición inmediata, compartir, pantalla completa y diseño móvil.
+Funciones: botón Random, destino inicial aleatorio, azar sin repetición inmediata, enlaces directos por lugar, pantalla completa y diseño móvil.
+
