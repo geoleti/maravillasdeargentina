@@ -7,7 +7,7 @@ Brazo Tristeza queda pendiente porque solo se recibió un enlace abreviado sin i
 
 ## Funcionamiento
 Se usa el formato de inserción de Google Maps con pb e identificador de panorámica, sin clave API. Este formato depende de Google y puede cambiar. Si una imagen es retirada o no admite inserción, se debe obtener su enlace de Compartir / Insertar imagen.
-places.json conserva el identificador, coordenadas y orientación original. Pitch se calcula como 90 menos el valor t del enlace.
+places.json conserva el identificador, coordenadas y orientación original. Pitch de cámara se calcula como 90 menos el valor t del enlace; el formato pb usa el signo contrario.
 Random recorre una bolsa mezclada antes de volver a sortear destinos; evita repetir inmediatamente el actual.
 Se puede compartir la dirección ?lugar=id.
 
