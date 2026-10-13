@@ -6,3 +6,8 @@
 .bottom-bar{top:14px;right:24px;bottom:auto;left:auto;display:block;max-width:min(440px,calc(100% - 48px))}
 .place{max-width:100%;text-align:right}
 @media(max-width:600px){.bottom-bar{top:12px;right:12px;bottom:auto;left:auto;max-width:calc(100% - 24px)}.place{max-width:100%;padding:10px 14px}.place h1{font-size:17px}}
+
+/* Título centrado en la cabecera con espacio simétrico para Random. */
+header{justify-content:center;padding:0 185px}
+.brand{justify-content:center;text-align:center}
+@media(max-width:600px){header{padding:0 122px;min-height:72px;height:72px}.brand{gap:5px;font-size:20px}.brand span{font-size:12px;line-height:1.2}#random{top:16px}}
