@@ -12,7 +12,7 @@
   },
   {
     "id": "iguazu",
-    "name": "Cataratas del Iguazú",
+    "name": "Cataratas del Iguazú, Misiones",
     "province": "Misiones",
     "lat": -25.6952508,
     "lng": -54.4366943,
@@ -23,7 +23,7 @@
   },
   {
     "id": "mocona",
-    "name": "Mirador La Falla · Moconá",
+    "name": "Mirador La Falla · Moconá, Misiones",
     "province": "Misiones",
     "lat": -27.1427454,
     "lng": -53.8856136,
@@ -34,7 +34,7 @@
   },
   {
     "id": "bariloche-1",
-    "name": "Bariloche",
+    "name": "Cerro Otto, Bariloche",
     "province": "Río Negro",
     "lat": -41.1443416,
     "lng": -71.3760495,
