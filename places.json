@@ -45,7 +45,7 @@
   },
   {
     "id": "bariloche-2",
-    "name": "Bariloche",
+    "name": "Laguna de los Témpanos, Bariloche",
     "province": "Río Negro",
     "lat": -41.1851352,
     "lng": -71.5742594,
@@ -56,7 +56,7 @@
   },
   {
     "id": "laguna-azul",
-    "name": "Laguna Azul",
+    "name": "Laguna Azul, Bariloche",
     "province": "Río Negro",
     "lat": -41.1939425,
     "lng": -71.6868491,
@@ -67,7 +67,7 @@
   },
   {
     "id": "laguna-frias",
-    "name": "Laguna Frías",
+    "name": "Laguna Frías, Bariloche",
     "province": "Río Negro",
     "lat": -41.0543217,
     "lng": -71.7927887,
@@ -78,7 +78,7 @@
   },
   {
     "id": "arrayanes-1",
-    "name": "Parque Nacional Los Arrayanes",
+    "name": "Parque Nacional Los Arrayanes, Villa La Angostura, Neuquén",
     "province": "Neuquén",
     "lat": -40.78392,
     "lng": -71.660469,
@@ -89,7 +89,7 @@
   },
   {
     "id": "arrayanes-2",
-    "name": "Parque Nacional Los Arrayanes",
+    "name": "Parque Nacional Los Arrayanes, Villa La Angostura, Neuquén",
     "province": "Neuquén",
     "lat": -40.8569276,
     "lng": -71.6144838,
@@ -100,7 +100,7 @@
   },
   {
     "id": "quetrihue",
-    "name": "Istmo de Quetrihué",
+    "name": "Istmo de Quetrihué, Villa La Angostura, Neuquén",
     "province": "Neuquén",
     "lat": -40.7836543,
     "lng": -71.6594092,
@@ -111,7 +111,7 @@
   },
   {
     "id": "cerro-bayo",
-    "name": "Cerro Bayo",
+    "name": "Cerro Bayo, Villa La Angostura, Neuquén",
     "province": "Neuquén",
     "lat": -40.7523155,
     "lng": -71.6058044,
@@ -122,7 +122,7 @@
   },
   {
     "id": "puerto-huemul",
-    "name": "Puerto Huemul",
+    "name": "Puerto Huemul, Bariloche",
     "province": "",
     "lat": -41.0288887,
     "lng": -71.4002762,
@@ -133,7 +133,7 @@
   },
   {
     "id": "villa-traful",
-    "name": "Villa Traful",
+    "name": "Villa Traful, Neuquén",
     "province": "Neuquén",
     "lat": -40.6530138,
     "lng": -71.4012773,
@@ -144,7 +144,7 @@
   },
   {
     "id": "mirador-traful",
-    "name": "Mirador del Lago Traful",
+    "name": "Mirador del Lago Traful, Neuquén",
     "province": "Neuquén",
     "lat": -40.6654324,
     "lng": -71.3452235,
