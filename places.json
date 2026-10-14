@@ -163,5 +163,16 @@
     "heading": 92.99,
     "pitch": 6.15,
     "embedUrl": "https://www.google.com/maps/embed?pb=!4v1791830000000!6m8!1m7!1sCAoSHENJQUJJaEFBZE52MUl0ZXAyR3J2b0JOWWtBeUU.!2m2!1d-38.8203103!2d-71.1938541!3f92.99!4f-6.15!5f0.7820865974627469"
+  },
+  {
+    "id": "cerro-lopez",
+    "name": "Cerro López, Bariloche",
+    "province": "Río Negro",
+    "lat": -41.104856,
+    "lng": -71.5568922,
+    "panoId": "CIABIhAfzc85vBlyGqqXFhcc2D2j",
+    "heading": 19.72,
+    "pitch": -0.87,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!4v1791887054820!6m8!1m7!1sCAoSHENJQUJJaEFmemM4NXZCbHlHcXFYRmhjYzJEMmo.!2m2!1d-41.104856!2d-71.5568922!3f19.72!4f0.87!5f0.7820865974627469"
   }
 ]
