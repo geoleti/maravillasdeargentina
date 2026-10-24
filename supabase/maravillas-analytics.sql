@@ -42,7 +42,7 @@ with bounds as (
  count(distinct place_id) filter(where event_name='place_view') places_seen,
  max(created_at) last_event from e
 ), daily as (
- select (created_at at time zone 'America/Argentina/Buenos_Aires')::date day,
+ select (created_at at time zone 'America/Argentina/Buenos_Aires')::date AS "day",
  count(*) filter(where event_name='page_view') visits,count(distinct visitor_id) visitors,
  count(*) filter(where event_name='place_view') place_views from e group by 1
 ), places as (
@@ -54,7 +54,7 @@ with bounds as (
  referrers as (select referrer label,count(*) visits from e where event_name='page_view' group by referrer order by count(*) desc)
 select jsonb_build_object(
  'period_days',p_days,'summary',(select to_jsonb(s) from summary s),
- 'daily',coalesce((select jsonb_agg(to_jsonb(d) order by d.day) from daily d),'[]'::jsonb),
+ 'daily',coalesce((select jsonb_agg(to_jsonb(d) order by d."day") from daily d),'[]'::jsonb),
  'places',coalesce((select jsonb_agg(to_jsonb(p)) from places p),'[]'::jsonb),
  'devices',coalesce((select jsonb_agg(to_jsonb(d)) from devices d),'[]'::jsonb),
  'browsers',coalesce((select jsonb_agg(to_jsonb(b)) from browsers b),'[]'::jsonb),
