@@ -378,5 +378,148 @@
     "id": "cajon-azul",
     "name": "Cajón del Azul",
     "province": "Río Negro"
+  },
+  {
+    "id": "fiuba-paseo-colon",
+    "name": "Facultad de Ingeniería UBA · Sede Paseo Colón",
+    "province": "Ciudad de Buenos Aires",
+    "lat": -34.6176508,
+    "lng": -58.3684524,
+    "panoId": "Sol3AFkndTan9OJwkwIXGw",
+    "heading": 84.39,
+    "pitch": -34.3,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sSol3AFkndTan9OJwkwIXGw!2m2!1d-34.6176508!2d-58.3684524!3f84.39!4f34.3!5f0.7820865974627469"
+  },
+  {
+    "id": "fiuba-las-heras",
+    "name": "Facultad de Ingeniería UBA · Sede Las Heras",
+    "province": "Ciudad de Buenos Aires",
+    "lat": -34.5883163,
+    "lng": -58.396206,
+    "panoId": "4SoI3KsS1BcI1iiShhQ6JA",
+    "heading": 221.99,
+    "pitch": -11.9,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1s4SoI3KsS1BcI1iiShhQ6JA!2m2!1d-34.5883163!2d-58.396206!3f221.99!4f11.9!5f0.7820865974627469"
+  },
+  {
+    "id": "sierras-quijadas",
+    "name": "Parque Nacional Sierra de las Quijadas",
+    "province": "San Luis",
+    "lat": -32.4948925,
+    "lng": -67.0098594,
+    "panoId": "wX5N44iui3pwOT2T8sbCnQ",
+    "heading": 125.42,
+    "pitch": 10.88,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1swX5N44iui3pwOT2T8sbCnQ!2m2!1d-32.4948925!2d-67.0098594!3f125.42!4f-10.88!5f0.7820865974627469"
+  },
+  {
+    "id": "bosques-jaramillo",
+    "name": "Bosques Petrificados de Jaramillo",
+    "province": "Santa Cruz",
+    "lat": -47.6688214,
+    "lng": -67.9942955,
+    "panoId": "z6BCat3jgE04TARt8bAFKg",
+    "heading": 223.47,
+    "pitch": 4.55,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sz6BCat3jgE04TARt8bAFKg!2m2!1d-47.6688214!2d-67.9942955!3f223.47!4f-4.55!5f0.7820865974627469"
+  },
+  {
+    "id": "salinas-grandes",
+    "name": "Salinas Grandes",
+    "province": "Jujuy",
+    "lat": -23.7166667,
+    "lng": -66.0308333,
+    "panoId": "CIABIhDJCQw-NF1MEm4TAzJKWaCh",
+    "heading": 227,
+    "pitch": 0,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSHENJQUJJaERKQ1F3LU5GMU1FbTRUQXpKS1dhQ2g.!2m2!1d-23.7166667!2d-66.0308333!3f227!4f0!5f0.7820865974627469"
+  },
+  {
+    "id": "quebrada-conchas",
+    "name": "Quebrada de las Conchas · Los Castillos",
+    "province": "Salta",
+    "lat": -26.0012952,
+    "lng": -65.8087308,
+    "panoId": "CIHM0ogKEICAgIDE35LJsgE",
+    "heading": 20,
+    "pitch": 0,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJREUzNUxKc2dF!2m2!1d-26.0012952!2d-65.8087308!3f20!4f0!5f0.7820865974627469"
+  },
+  {
+    "id": "cono-arita",
+    "name": "Cono de Arita",
+    "province": "Salta",
+    "lat": -25.0122758,
+    "lng": -67.7386255,
+    "panoId": "CIHM0ogKEICAgIDfxaex2gE",
+    "heading": 6.37,
+    "pitch": 4.04,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJRGZ4YWV4MmdF!2m2!1d-25.0122758!2d-67.7386255!3f6.37!4f-4.04!5f0.7820865974627469"
+  },
+  {
+    "id": "piedra-pomez",
+    "name": "Campo de Piedra Pómez",
+    "province": "Catamarca",
+    "lat": -26.8016453,
+    "lng": -65.7213135,
+    "panoId": "CIHM0ogKEICAgID274CwDg",
+    "heading": 334.2,
+    "pitch": 9.97,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRDI3NEN3RGc.!2m2!1d-26.8016453!2d-65.7213135!3f334.2!4f-9.97!5f0.7820865974627469"
+  },
+  {
+    "id": "san-ignacio-mini",
+    "name": "Ruinas de San Ignacio Miní",
+    "province": "Misiones",
+    "lat": -27.2544503,
+    "lng": -55.5317129,
+    "panoId": "CIHM0ogKEICAgIC_xpbEVg",
+    "heading": 340,
+    "pitch": 0,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJQ194cGJFVmc.!2m2!1d-27.2544503!2d-55.5317129!3f340!4f0!5f0.7820865974627469"
+  },
+  {
+    "id": "quilmes",
+    "name": "Ciudad Sagrada de Quilmes",
+    "province": "Tucumán",
+    "lat": -26.4653806,
+    "lng": -66.0367846,
+    "panoId": "CIHM0ogKEICAgICR25bB7QE",
+    "heading": 299.89,
+    "pitch": -0.11,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQ1IyNWJCN1FF!2m2!1d-26.4653806!2d-66.0367846!3f299.89!4f0.11!5f0.7820865974627469"
+  },
+  {
+    "id": "ventisquero-negro",
+    "name": "Ventisquero Negro · Cerro Tronador, Bariloche",
+    "province": "Río Negro",
+    "lat": -41.2026263,
+    "lng": -71.8281379,
+    "panoId": "CIHM0ogKEICAgIDm0aW-5QE",
+    "heading": 269.69,
+    "pitch": -8.89,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJRG0wYVctNVFF!2m2!1d-41.2026263!2d-71.8281379!3f269.69!4f8.89!5f0.7820865974627469"
+  },
+  {
+    "id": "ventisquero-negro-2014",
+    "name": "Ventisquero Negro · Cerro Tronador, 2014",
+    "province": "Río Negro",
+    "lat": -41.2022938,
+    "lng": -71.8273687,
+    "panoId": "CIHM0ogKEICAgIC6g-q6JQ",
+    "heading": 155.29,
+    "pitch": -0.07,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJQzZnLXE2SlE.!2m2!1d-41.2022938!2d-71.8273687!3f155.29!4f0.07!5f0.7820865974627469"
+  },
+  {
+    "id": "catedral-la-plata",
+    "name": "Catedral de La Plata",
+    "province": "Buenos Aires",
+    "lat": -34.9229517,
+    "lng": -57.9563164,
+    "panoId": "CIHM0ogKEICAgIDppbbDTQ",
+    "heading": 359.89,
+    "pitch": -30,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRHBwYmJEVFE.!2m2!1d-34.9229517!2d-57.9563164!3f359.89!4f30!5f0.7820865974627469"
   }
 ]
