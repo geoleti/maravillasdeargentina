@@ -634,7 +634,7 @@
   },
   {
     "id": "refugio-frey-2",
-    "name": "Refugio Frey, Bariloche",
+    "name": "Refugio Piedritas, Bariloche",
     "province": "Río Negro",
     "lat": -41.1982767,
     "lng": -71.4860858,
@@ -664,5 +664,16 @@
     "heading": 317.31,
     "pitch": -5.12,
     "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRDRvY1hOWHc.!2m2!1d-41.1760817!2d-71.8179439!3f317.31!4f5.12!5f0.7820865974627469"
+  },
+  {
+    "id": "mural-maradona",
+    "name": "Mural Maradona, Buenos Aires",
+    "province": "Ciudad de Buenos Aires",
+    "lat": -34.6226158,
+    "lng": -58.3892746,
+    "panoId": "CIHM0ogKEICAgIDe_7DVBQ",
+    "heading": 18.67,
+    "pitch": 35.62,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRGVfN0RWQlE.!2m2!1d-34.6226158!2d-58.3892746!3f18.67!4f-35.62!5f0.7820865974627469"
   }
 ]
