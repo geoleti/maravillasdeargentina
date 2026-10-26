@@ -521,5 +521,148 @@
     "heading": 359.89,
     "pitch": -30,
     "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRHBwYmJEVFE.!2m2!1d-34.9229517!2d-57.9563164!3f359.89!4f30!5f0.7820865974627469"
+  },
+  {
+    "id": "aconcagua-2",
+    "name": "Aconcagua, Mendoza",
+    "province": "Mendoza",
+    "lat": -32.8276576,
+    "lng": -70.0922275,
+    "panoId": "CIHM0ogKEICAgICcxsGhRQ",
+    "heading": 339.28,
+    "pitch": -6.33,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJQ2N4c0doUlE.!2m2!1d-32.8276576!2d-70.0922275!3f339.28!4f6.33!5f0.7820865974627469"
+  },
+  {
+    "id": "aconcagua-3",
+    "name": "Aconcagua, Mendoza",
+    "province": "Mendoza",
+    "lat": -32.6780705,
+    "lng": -69.9737147,
+    "panoId": "CIHM0ogKEICAgIDqjYmfFA",
+    "heading": 168.91,
+    "pitch": 7.75,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRHFqWW1mRkE.!2m2!1d-32.6780705!2d-69.9737147!3f168.91!4f-7.75!5f0.7820865974627469"
+  },
+  {
+    "id": "aconcagua-4",
+    "name": "Aconcagua, Mendoza",
+    "province": "Mendoza",
+    "lat": -32.6461479,
+    "lng": -70.0586361,
+    "panoId": "CIHM0ogKEICAgIDqpZy0gwE",
+    "heading": 167.93,
+    "pitch": 1.79,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJRHFwWnkwZ3dF!2m2!1d-32.6461479!2d-70.0586361!3f167.93!4f-1.79!5f0.7820865974627469"
+  },
+  {
+    "id": "aconcagua-horcones",
+    "name": "Aconcagua · Horcones, Mendoza",
+    "province": "Mendoza",
+    "lat": -32.8084065,
+    "lng": -69.9417232,
+    "panoId": "CIHM0ogKEICAgIDqxcn8hAE",
+    "heading": 9.07,
+    "pitch": 2.32,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJRHF4Y244aEFF!2m2!1d-32.8084065!2d-69.9417232!3f9.07!4f-2.32!5f0.7820865974627469"
+  },
+  {
+    "id": "islas-malvinas",
+    "name": "Islas Malvinas",
+    "province": "",
+    "lat": -51.470981,
+    "lng": -57.8452211,
+    "panoId": "CIABIhBo7HHRDyTNqisBcs68k2os",
+    "heading": 231.81,
+    "pitch": 2.72,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSHENJQUJJaEJvN0hIUkR5VE5xaXNCY3M2OGsyb3M.!2m2!1d-51.470981!2d-57.8452211!3f231.81!4f-2.72!5f0.7820865974627469"
+  },
+  {
+    "id": "necochea",
+    "name": "Necochea, Provincia de Buenos Aires",
+    "province": "Buenos Aires",
+    "lat": -38.5878105,
+    "lng": -58.6895638,
+    "panoId": "CIHM0ogKEICAgIDq7earAQ",
+    "heading": 344.14,
+    "pitch": 0,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRHE3ZWFyQVE.!2m2!1d-38.5878105!2d-58.6895638!3f344.14!4f0!5f0.7820865974627469"
+  },
+  {
+    "id": "los-alerces",
+    "name": "Parque Nacional Los Alerces",
+    "province": "Chubut",
+    "lat": -42.8333333,
+    "lng": -71.8333333,
+    "panoId": "CIHM0ogKEICAgIDEh9SfdA",
+    "heading": 279.31,
+    "pitch": 9.84,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJREVoOVNmZEE.!2m2!1d-42.8333333!2d-71.8333333!3f279.31!4f-9.84!5f0.7820865974627469"
+  },
+  {
+    "id": "cueva-manos",
+    "name": "Cueva de las Manos",
+    "province": "Santa Cruz",
+    "lat": -47.1522214,
+    "lng": -70.6627035,
+    "panoId": "CIHM0ogKEICAgID4g7z5dQ",
+    "heading": 187.73,
+    "pitch": -11.73,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRDRnN3o1ZFE.!2m2!1d-47.1522214!2d-70.6627035!3f187.73!4f11.73!5f0.7820865974627469"
+  },
+  {
+    "id": "refugio-lopez",
+    "name": "Refugio López, Bariloche",
+    "province": "Río Negro",
+    "lat": -41.102237,
+    "lng": -71.5595656,
+    "panoId": "CIHM0ogKEICAgIDm7ob8Dg",
+    "heading": 40,
+    "pitch": -20,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRG03b2I4RGc.!2m2!1d-41.102237!2d-71.5595656!3f40!4f20!5f0.7820865974627469"
+  },
+  {
+    "id": "refugio-frey",
+    "name": "Refugio Frey, Bariloche",
+    "province": "Río Negro",
+    "lat": -41.1983333,
+    "lng": -71.4863883,
+    "panoId": "CIHM0ogKEICAgICMouvRwwE",
+    "heading": 53.92,
+    "pitch": -11.48,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQ01vdXZSd3dF!2m2!1d-41.1983333!2d-71.4863883!3f53.92!4f11.48!5f0.7820865974627469"
+  },
+  {
+    "id": "refugio-frey-2",
+    "name": "Refugio Frey, Bariloche",
+    "province": "Río Negro",
+    "lat": -41.1982767,
+    "lng": -71.4860858,
+    "panoId": "CIHM0ogKEICAgIDEg8Df-wE",
+    "heading": 40,
+    "pitch": -20,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJREVnOERmLXdF!2m2!1d-41.1982767!2d-71.4860858!3f40!4f20!5f0.7820865974627469"
+  },
+  {
+    "id": "refugio-rocca",
+    "name": "Refugio Agostino Rocca, Bariloche",
+    "province": "Río Negro",
+    "lat": -41.15467,
+    "lng": -71.8058428,
+    "panoId": "CIHM0ogKEICAgIDmuPLXRQ",
+    "heading": 20,
+    "pitch": 0,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRG11UExYUlE.!2m2!1d-41.15467!2d-71.8058428!3f20!4f0!5f0.7820865974627469"
+  },
+  {
+    "id": "refugio-otto-meiling",
+    "name": "Refugio Otto Meiling, Bariloche",
+    "province": "Río Negro",
+    "lat": -41.1760817,
+    "lng": -71.8179439,
+    "panoId": "CIHM0ogKEICAgID4ocXNXw",
+    "heading": 317.31,
+    "pitch": -5.12,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRDRvY1hOWHc.!2m2!1d-41.1760817!2d-71.8179439!3f317.31!4f5.12!5f0.7820865974627469"
   }
 ]
